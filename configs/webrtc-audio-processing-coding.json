@@ -11,11 +11,11 @@
   {"user": "Minyue (Chromium)", "email": "minyue@chromium.org"},
   {"user": "Alessio (Chromium)", "email": "alessiob@chromium.org"},
   {"user": "Ivo (Chromium)", "email": "ivoc@chromium.org"},
-  {"user": "Alex (Chromium)", "email": "aleloi@chromium.org"},
+  {"user": "Alex (Chromium)", "email": "aleloi@chromium.org"}
 ],
 "dashes": ["cz-clock-dash", "cz-review-latency-dash", "cz-review-load-dash"],
 "timezones": [
-  {"city": "Stockholm", "timezone": "Europe/Stockholm", "local": true}
-  {"city": "Kirkland/MTV", "timezone": "US/Pacific"},
+  {"city": "Stockholm", "timezone": "Europe/Stockholm", "local": true},
+  {"city": "Kirkland/MTV", "timezone": "US/Pacific"}
   ]
 }
