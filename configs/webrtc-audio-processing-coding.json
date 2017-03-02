@@ -15,7 +15,7 @@
   {"user": "Alex (Chromium)", "email": "aleloi@chromium.org"},
   {"user": "Henrik A (Chromium)", "email": "henrika@chromium.org"}
 ],
-"dashes": ["cz-clock-dash", "cz-review-latency-dash", "cz-review-load-dash"],
+"dashes": ["cz-clock-dash", "cz-review-latency-dash", "cz-review-load-dash", "cz-beats-dash", "cz-component-dash", "cz-issue-priority-dash", "cz-milestones-dash", "cz-regression-dash", "cz-shields-dash"],
 "timezones": [
   {"city": "Stockholm", "timezone": "Europe/Stockholm", "local": true},
   {"city": "Kirkland/MTV", "timezone": "US/Pacific"}
