@@ -1,17 +1,19 @@
 {"cardview-heading": "WebRTC Audio Processing & Coding Team",
 "users": [
-  {"user": "Henrik", "email": "henrik.lundin@webrtc.org"},
+  {"user": "Henrik L", "email": "henrik.lundin@webrtc.org"},
   {"user": "Per", "email": "peah@webrtc.org"},
   {"user": "Minyue", "email": "minyue@webrtc.org"},
   {"user": "Alessio", "email": "alessiob@webrtc.org"},
   {"user": "Ivo", "email": "ivoc@webrtc.org"},
   {"user": "Alex", "email": "aleloi@webrtc.org"},
-  {"user": "Henrik (Chromium)", "email": "hlundin@chromium.org"},
+  {"user": "Henrik A", "email": "henrika@webrtc.org"},
+  {"user": "Henrik L (Chromium)", "email": "hlundin@chromium.org"},
   {"user": "Per (Chromium)", "email": "peah@chromium.org"},
   {"user": "Minyue (Chromium)", "email": "minyue@chromium.org"},
   {"user": "Alessio (Chromium)", "email": "alessiob@chromium.org"},
   {"user": "Ivo (Chromium)", "email": "ivoc@chromium.org"},
-  {"user": "Alex (Chromium)", "email": "aleloi@chromium.org"}
+  {"user": "Alex (Chromium)", "email": "aleloi@chromium.org"},
+  {"user": "Henrik A (Chromium)", "email": "henrika@chromium.org"}
 ],
 "dashes": ["cz-clock-dash", "cz-review-latency-dash", "cz-review-load-dash"],
 "timezones": [
